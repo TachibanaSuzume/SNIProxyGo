@@ -1,7 +1,7 @@
 # SNIProxyGo
 一个简单的SNI代理实现
 
-## README in English: [Here](https://github.com/TachibanaSuzume/SNIProxyGo/READMEEN.md "link"). 
+## README in English: [Here](https://github.com/TachibanaSuzume/SNIProxyGo/blob/master/READMEEN.md "link"). 
 
 ## 编译
 * go get gopkg.in/yaml.v2
