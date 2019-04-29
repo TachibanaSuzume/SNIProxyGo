@@ -26,5 +26,5 @@ io反射代码来自: https://github.com/ziozzang/SimpleSNIProxy
 如果需要商业使用，请联系我。
 
 ## 商业化使用以及对接WHMCS
-欢迎联系TG: [TG用户](https://t.me/TachibanaSuzume "点我"). 
+欢迎联系TG: [TG用户](https://t.me/TachibanaSuzume "点我").   
 欢迎加入TG群: [TG群](https://t.me/V2rayIsNotGreat "点我"). 

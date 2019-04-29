@@ -10,5 +10,14 @@ Simple SNI proxy written in go
 * Edit rules in config.yaml
 * Start
 
-Some codes from: https://github.com/fangdingjun/sniproxy
+## Usage:
+Usage of ./SNIProxyGo:  
+  -D    Enable debug  
+  -F string   
+        log to file  
+  -c string  
+        config file (default "config.yaml")  
+
+## Other:
+Some codes from: https://github.com/fangdingjun/sniproxy  
 ioReflector from: https://github.com/ziozzang/SimpleSNIProxy
